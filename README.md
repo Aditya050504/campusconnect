@@ -1,6 +1,6 @@
 # CampusConnect
 
-![CI](https://github.com/YOUR-GITHUB-USERNAME/campusconnect/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Aditya050504/campusconnect/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
